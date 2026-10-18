@@ -2,7 +2,7 @@
 
 ### AI Engineer | Generative AI · Agentic Systems · RAG
 
-[LinkedIn](https://www.linkedin.com/in/ghaithhammami/) · [GitHub](https://github.com/ghaith-hammami)
+[LinkedIn](https://www.linkedin.com/in/ghaithhammami/)
 
 I'm passionate about building intelligent applications powered by LLMs, from autonomous agents and multi-agent workflows to retrieval-augmented systems and knowledge-driven AI.
 
@@ -35,7 +35,7 @@ Knowledge Graphs · Neo4j · Vector Databases · FAISS · PostgreSQL · Redis
 
 ## Supporting Development & Cloud Skills
 
-**Development:** Python · FastAPI · TypeScript · Next.js
+**Development:** Python · FastAPI · TypeScript
 
 **Cloud & AI Platforms:** AWS · Azure · Azure OpenAI
 
@@ -50,4 +50,4 @@ Knowledge Graphs · Neo4j · Vector Databases · FAISS · PostgreSQL · Redis
 
 I'm happy to connect about AI Engineering internships starting February/March 2027, Generative AI applications, and agentic systems.
 
-[LinkedIn](https://www.linkedin.com/in/ghaithhammami/) · [GitHub](https://github.com/ghaith-hammami)
+[LinkedIn](https://www.linkedin.com/in/ghaithhammami/)
